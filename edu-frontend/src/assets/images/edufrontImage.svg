@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="600" viewBox="0 0 1200 600">
+  <rect width="1200" height="600" fill="#ffffff"/>
+  <rect x="24" y="24" width="1152" height="552" rx="16" fill="#f3f4f6" stroke="#e5e7eb" />
+  <text x="600" y="300" font-size="28" font-family="Arial, Helvetica, sans-serif" fill="#0f1723" text-anchor="middle">Hero image placeholder</text>
+  <text x="600" y="340" font-size="18" font-family="Arial, Helvetica, sans-serif" fill="#374151" text-anchor="middle">Replace src/assets/images/edufrontImage.svg with your real image</text>
+</svg>
