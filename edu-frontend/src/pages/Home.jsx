@@ -94,7 +94,7 @@ export default function Home(){
         <div className="footer-col">
           <h4>Quick Links</h4>
           <ul>
-            <li><a className="footer-link" href="/courses">Courses</a></li>
+            <li><a className="footer-link" href="/courses">Course</a></li>
             <li><a className="footer-link" href="/exam/iit-jee">IIT JEE</a></li>
             <li><a className="footer-link" href="/exam/gate">GATE</a></li>
             <li><a className="footer-link" href="/about">About</a></li>
