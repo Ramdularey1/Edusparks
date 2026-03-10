@@ -11,7 +11,7 @@ const EXAMS = [
   { key: 'IIT JEE', img: iitImg },
   { key: 'GATE', img: gateImg },
   { key: 'NEET', img: neetImg },
-  { key: 'Govt Job Preparation', img: govtImg },
+  { key: 'Govt Jobs Preparation', img: govtImg },
   { key: 'CAT', img: catImg },
   { key: 'UPSC', img: upscImg },
 ]
