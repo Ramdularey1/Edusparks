@@ -33,7 +33,7 @@ export default function Home(){
     <section className="hero" style={{paddingTop:28}}>
       <div className="hero-container">
         <div className="hero-left">
-          <h1 className="hero-title">Empower your learning — focused exam preparation</h1>
+          <h1 className="hero-title">Empower your learnings — focused exam preparation</h1>
           <p className="hero-sub">Choose your exam path, access curated courses, and track progress — all in one student-friendly platform.</p>
 
           <div className="cta-row">
@@ -52,7 +52,7 @@ export default function Home(){
             </div>
             <div className="feature-card">
               <div className="feature-title">Progress tracking</div>
-              <div className="feature-desc">Visual dashboards to monitor improvement and weak areas.</div>
+              <div className="feature-desc">Visuals dashboards to monitor improvement and weak areas.</div>
             </div>
           </div>
         </div>
